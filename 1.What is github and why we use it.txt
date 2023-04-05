@@ -1,0 +1,2 @@
+1.What is github and why we use it?
+ A.Github is a code hosting platform for version control and collaborations
